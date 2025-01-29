@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"content="width=device-width,initial-scale=1.0">
+  <title>Image layout</title>
+</head>
+<body>
+  <section style="display:flex;justify-content:space-between;gap:1px;">
+  <div style="padding:5%;">
+    <p style="font-size:15px;color:gray;">ALL-IN-ONE ECOMMERCE SOLUTION</p>
+    <h1>WoodMart-WooCommerce Theme</h1>
+    <p style="color:gray;">WoodMart WooCommerce theme for wordpress is the only thing you need to creat your perfect online store.Use it for any kind of website:business,corporate,retail,multivendors.</p>
+    <button style="background-color:green;color:white;">READ MORE</button>
+    <button>CONTACT US</button>
+  </div>
+   <img src="https://i.postimg.cc/sgrJnryR/IMG-20250127-WA0005.jpg"width="100%">
+    </section>
+</body>
+</html>
